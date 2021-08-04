@@ -1,0 +1,4 @@
+ToRead Deck|3|2|0|1
+Blue-Eyes White Dragon|This legendary dragon is a powerful engine of destruction.|43|3000|2500
+Dark Magician|The ultimate wizard.|23|2500|2100
+Timegazer Magician|Your opponent cannot activate Trap Magic Cards|3|1200|600|8.000000|SPELL

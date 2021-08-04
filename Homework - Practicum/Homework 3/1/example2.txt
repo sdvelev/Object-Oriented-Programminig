@@ -1,0 +1,6 @@
+Random Deck|2|2|1
+Example|effect|500|28500
+Dark-Magician|The ultimate wizard.|2500|2100
+Magic Cylinder|(effect)|TRAP
+Swords of Revealing Light|Your opponent's monsters cannot declare an attack.|SPELL
+Timegazer Magician|Your opponent cannot activate Trap Magic Cards|1200|600|8.000000|SPELL
